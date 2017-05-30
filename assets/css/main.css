@@ -1,0 +1,252 @@
+nav{
+  z-index: 1;
+  background-color: white;
+  height: 100px;
+  color: white;
+}
+.image{
+  background-image: url(../img/taxi.jpg);
+  width: 100%;
+  height: 1920px;
+  background-size: cover;
+  position: relative;
+}
+.bottom-img{
+  position: relative;
+  bottom: 1240px;
+}
+
+.height-section{
+  width: 100%;
+  height: 1800px;
+  background-size: cover;
+}
+.color-white{
+  color: white;
+}
+.background-naranja{
+  background-color: #f7b617;
+}
+.padding-hero{
+  padding: 35px;
+}
+.padding-hero-movile{
+  padding: 20px;
+  height: 260px;
+}
+.margin-0{
+  margin: 0;
+}
+.padding-0{
+  padding: 0;
+}
+.style-input{
+  background-color: #f7b617;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+
+}
+.form-group{
+  height: 73px;
+}
+.padding-input{
+  padding-top: 40px;
+}
+h3{
+  padding-right: 10px;
+}
+.style-h3-hero{
+  display: inline-block;
+}
+.img-logo-blanco{
+  width: 80px;
+}
+.style-button{
+  position: relative;
+  top: 35px;
+}
+.style-button-movile{
+  position: relative;
+  top: 20px;
+}
+.hero-style{
+  z-index: 1;
+  left: 787px;
+  bottom: 1780px;
+  height: 350px;
+}
+.img-responsive{
+  height: 580px;
+}
+.hero-style-movile{
+  z-index: 1;
+  bottom: 410px;
+  left: 80px;
+}
+.style-section-informacion{
+  border: 2px solid white;
+  border-left: none;
+  color: white;
+  font-size: 18px;
+  height: 500px;
+  padding: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.botton-section-1{
+  position: relative;
+  bottom: 1600px;
+}
+.botton-section-1-movile{
+  position: relative;
+  bottom: 280px;
+}
+.botton-section-2{
+  position: relative;
+  bottom: 1600px;
+  z-index: -1;
+}
+.botton-section-2-movile{
+  position: relative;
+  bottom: 285px;
+}
+.botton-section-3{
+  position: relative;
+  bottom: 2300px;
+}
+.botton-section-3-movile{
+  position: relative;
+  bottom: 585px;
+}
+.padding-none{
+  padding: 0;
+}
+.style-img-celular{
+  width: 180px;
+  height: 200px;
+  background-size: cover;
+}
+.section-informacion-movile{
+  border: 2px solid white;
+  margin: 10px;
+  color: white;
+  position: relative;
+  right: 10px;
+  padding-top: 30px;
+  padding-left: 50px;
+  height: 330px;
+
+}
+.color-white{
+  color: white;
+}
+.style-section-movile{
+  height: 420px;
+}
+.img-conduce{
+  width: 100%;
+  height: 450px;
+  background-size: cover;
+}
+.img-conduce-movile{
+  width: 100%;
+  height: 300px;
+  background-size: cover;
+}
+.fondo-section-conduce{
+  position:relative;
+  bottom: 240px;
+}
+.fondo-conduce{
+  width: 100%;
+  height: 670px;
+  background-size: cover;
+  background-image: url(../img/conduce.jpg);
+}
+.padding-section{
+  padding: 0;
+}
+.texto-conduce{
+  position: relative;
+  z-index: 1;
+  height: 450px;
+  color: white;
+  background-color:rgba(51, 26, 73,0.2);
+  bottom: 450px;
+  left: 350px;
+  padding-top: 120px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.button-conduce{
+  background-color: #fcb425;
+  color: white;
+}
+.texto-conduce-movile{
+  width: 100%;
+  height: 300px;
+  z-index: 1;
+  background-color:rgba(51, 26, 73,0.3);
+  padding-top: 60px;
+  color: white;
+  position: relative;
+  bottom: 300px;
+}
+div#map{
+  height: 400px;
+  width: 450px;
+  background-size: cover;
+  position: relative;
+}
+.fondo-naranja{
+  background-color: #f7b617;
+}
+.style-container-tarifa{
+  padding: 30px;
+}
+.container-map{
+  position: relative;
+  left: 100px;
+  border: 1px solid white;
+  padding: 10px;
+  width: 470px;
+}
+.input-tarifa-section{
+  position: relative;
+  top: 30px;
+  left: 50px;
+  color: white;
+}
+.input-tarifa{
+  background-color: #f7b617;
+  color: white;
+  border: 1px solid white;
+  margin: 10px;
+  padding: 10px;
+  width: 300px;
+  border-radius: 5px;
+}
+.button-tarifa{
+  position: relative;
+  top: 20px;
+  left: 80px;
+}
+.style-container-movile{
+  padding-top: 60px;
+  padding-bottom: 60px;
+  color: white;
+}
+.input-tarifa-movile{
+  background-color: #f7b617;
+  color: white;
+  border: 1px solid white;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+.button-tarifa-movile{
+  position: relative;
+  top: 10px;
+  left: 40px;
+}
